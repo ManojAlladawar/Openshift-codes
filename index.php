@@ -1,7 +1,3 @@
-<?pre
-
-print("hello manoj for oc");
-  
-
+<?php
+echo "Hello Manoj!";
 ?>
-  
